@@ -1,6 +1,7 @@
-![The Low-Profile Dog Hoodie Mascot](https://avatars1.githubusercontent.com/u/1888826?v=3&s=200)
-
 # Welcome to Hoodie 🎉
+
+<img src="https://avatars1.githubusercontent.com/u/1888826?v=3&s=200"
+ alt="Hoodie logo (Low Profile Dog)" title="Low Profile Dog" align="right" />
 
 [![Join our Chat](https://img.shields.io/badge/Chat-IRC%20or%20Slack-blue.svg)](http://hood.ie/chat)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
